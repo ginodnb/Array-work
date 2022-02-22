@@ -1,4 +1,4 @@
-// TASK !
+// TASK 1 (and also the extra task at the end)
 
 const music = ["drum and bass", "house", "EDM", "prog rock", "Techno"];
 var m = music;
